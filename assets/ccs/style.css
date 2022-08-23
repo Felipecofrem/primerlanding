@@ -1,0 +1,39 @@
+header  { background: linear-gradient(70deg, black, white);
+          border: 10px solid black;
+          color: black;
+}
+nav     { height: 20px;
+          padding: 30px;
+          border: 10px solid white;
+          background-color: black;
+          color: white;
+}
+.nav    { 
+          padding: 20px;
+          background-color: white;  
+
+}
+main    { background-image: url("../imgs/backgr.jpg");
+          border: 10px solid black;
+          background-size: cover;
+
+}
+footer  { background-color:black; text-align: center;
+          border: 10px solid white;
+          color: white;
+}
+.prod   { width: 210px; 
+          height: 210px;
+          border: 3px solid black;
+}
+#img1   { max-width: 100px;
+}
+.tabla1 { font-size: 20px;
+}   
+h1      { font-family: helvetica;
+}
+a       { text-decoration: none; 
+          color: black;
+}
+
+    
